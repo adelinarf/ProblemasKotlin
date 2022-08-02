@@ -35,3 +35,5 @@ Defina dos clases concretas DFS y BFS que sean subtipo de Busqueda.
     • Para BFS el orden de selección de nodos es a amplitud (usando un cola)
 ##### Implementación
 La implementación de este programa se encuentra en el archivo GrafoDFSBFS.kt
+
+## Nota: Para hacer pruebas diferentes, modificar los valores de los ejemplos dados en la función main de cada archivo.
